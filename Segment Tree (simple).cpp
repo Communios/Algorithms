@@ -1,3 +1,10 @@
+/*
+            DD/MM/YYYY
+Date: 11:59 20/11/2023
+      12:00 21/11/2023
+
+Creator: Me
+*/
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -52,7 +59,7 @@ int get(int id, int l, int r, int u, int v) {
 }
 
 int main() {
-  ios::sync_with_stdio(0);
+  ios_base::sync_with_stdio(0);
   cin.tie(0);
   cout.tie(0);
 
